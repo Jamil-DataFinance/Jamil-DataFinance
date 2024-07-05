@@ -4,7 +4,7 @@ This repository serves as a central hub for all my project-related repositories.
 
 ## Projects
 
-### Financial Model for Forecasting 5 Years of Financial Statements
+### Five-Year Financial Projections for Placeholder Innovations
 
 This is my first project, where I created a comprehensive financial model to forecast 5 years of financial statements for a placeholder company. The model includes:
 
