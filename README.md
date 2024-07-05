@@ -1,27 +1,25 @@
-Welcome to the Jamil-DataFinance repository! This repository serves as my showcase for projects related to data analysis and finance.
+# Welcome to My Project Repository
 
-**What's Inside:**
+This repository serves as a central hub for all my project-related repositories. Each project is designed to showcase different skills and tools used in financial analysis, data visualization, and more.
 
-            Currently, this repository is a work in progress. Here’s what you can expect:
+## Projects
 
-**Project Ideas:**
+### Financial Model for Forecasting 5 Years of Financial Statements
 
-            I am planning to explore various aspects of data analysis in the finance domain, including [specific topics you're interested in].
- 
- 
-**Future Updates:**
+This is my first project, where I created a comprehensive financial model to forecast 5 years of financial statements for a placeholder company. The model includes:
 
-            I will be updating this repository with my latest projects and explorations. Stay tuned for more!
+- A three-statement financial model
+- A visualization dashboard
+- Detailed schedules for in-depth financial analysis
 
-**Why Follow This Repository:**
+You can find the project repository here: https://github.com/Jamil-DataFinance/Financial-Model
 
-            By following this repository, you'll get insights into my journey through the intersection of data science and finance. Whether you're interested in financial modeling, data visualization, or predictive analytics, this repository will showcase my evolving skills and projects in these areas.
+---
 
-**Contact Me:**
+More projects will be added soon!
 
-            Feel free to reach out if you have any questions or ideas to share. You can connect with me via Below contact Channels 
+## Contact
 
-            Linked in : https://www.linkedin.com/in/jamil-ur-rehman/
-
-            Email : Jamil.akhunzada@gmail.com
-
+For questions or feedback, please contact:
+- Jamil ur Rehman
+- Email: Jamil.akhunzada@gmail.com
