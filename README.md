@@ -16,7 +16,14 @@ You can find the project repository here: https://github.com/Jamil-DataFinance/F
 
 ---
 
-More projects will be added soon!
+### Maven Analytics Hospital Challenge - Massachusetts General Hospital (MGH)
+
+I'm thrilled to share that I've participated in the Maven Analytics Hospital Challenge as an Analytics Consultant. In this role, I prepared an insightful dashboard for the CEO of Massachusetts General Hospital (MGH), addressing key questions and providing strategic insights.
+
+You can check out the dashboard and all the details of the project here.
+
+https://mavenanalytics.io/project/16822
+
 
 ## Contact
 
