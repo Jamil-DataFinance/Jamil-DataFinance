@@ -14,6 +14,10 @@ Please check out the project using below link:
 https://github.com/Jamil-DataFinance/Financial_Reporting_in_PowerBI
 
 ---
+### HR Analytics
+This Power BI project provides a comprehensive analysis of employee data, focusing on attrition, demographics, performance tracking, and trends over time. The dashboard is designed to help HR professionals and decision-makers gain actionable insights into workforce dynamics, employee satisfaction, and attrition patterns.
+
+https://github.com/Jamil-DataFinance/HR-Analytics
 
 ### Five-Year Financial Projections for Placeholder Innovations
 
