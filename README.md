@@ -19,6 +19,8 @@ This Power BI project provides a comprehensive analysis of employee data, focusi
 
 https://github.com/Jamil-DataFinance/HR-Analytics
 
+
+---
 ### Five-Year Financial Projections for Placeholder Innovations
 
 This is my first project, where I created a comprehensive financial model to forecast 5 years of financial statements for a placeholder company. The model includes:
