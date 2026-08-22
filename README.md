@@ -310,7 +310,7 @@ My experience and project work cover:
 * DAX
 * Data analytics
 
-**Certifications:** ACCA · FMVA · BIDA · MSc Economics
+**Certifications:** ACCA · FMVA · BIDA (Data Science Analyst) · MSc Economics
 
 [LinkedIn →](https://www.linkedin.com/in/jamil-ur-rehman-acca/)
 [Email →](mailto:Jamil.akhunzada@gmail.com)
