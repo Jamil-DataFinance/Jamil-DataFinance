@@ -4,7 +4,9 @@ Welcome to my project portfolio.
 
 I combine **finance, financial modelling, and business intelligence** to build reporting and analytical solutions that turn financial and operational data into actionable insights.
 
-My projects cover **FP&A, financial modelling, financial consolidation, financial reporting, Power BI, DAX, scenario analysis, and business analytics**.
+My work focuses on **FP&A, financial modelling, financial consolidation, financial reporting, Power BI, DAX, scenario analysis, and business analytics**.
+
+The portfolio is structured around two areas: **Finance Projects** and **Data & Analytics Projects**.
 
 ---
 
@@ -52,7 +54,7 @@ The model allows users to select an individual entity and view its standalone fi
 * Management KPIs and financial ratios
 * Entity-level and group-level reporting through the same model
 
-### Finance Concepts Demonstrated
+### Finance Concepts
 
 * Group consolidation
 * Intercompany transactions and balances
@@ -71,7 +73,7 @@ The model allows users to select an individual entity and view its standalone fi
 * Standardised account mapping
 * Reusable financial measures
 
-*Business Value*:  Combines entity-level financial reporting and group consolidation in a single model, with transparent consolidation bridges that make adjustments traceable and easier to reconcile.
+**Business Value:** Combines entity-level financial reporting and group consolidation in a single model, with transparent consolidation bridges that make adjustments traceable and easier to reconcile.
 
 > All entities, transactions and financial data are fictional and created solely for portfolio and demonstration purposes.
 
@@ -85,7 +87,7 @@ The model allows users to select an individual entity and view its standalone fi
 
 **NexaCommerce Global** is a fictional mid-sized e-commerce business used to demonstrate an end-to-end **FP&A and commercial finance reporting environment**.
 
-The project connects revenue drivers, profitability, customer behaviour, receivables, variance analysis, and forward-looking scenario modelling in one Power BI solution.
+The model connects revenue drivers, profitability, customer behaviour, receivables, variance analysis, and forward-looking scenario modelling within one Power BI solution.
 
 ### Analytical Pages
 
@@ -134,7 +136,7 @@ The model dynamically recalculates the impact on revenue, profitability and EBIT
 * Financial KPI development
 * Variance analysis
 
-**Key idea:** This project demonstrates the transition from traditional reporting to **decision-support FP&A**, connecting historical performance with forward-looking scenario analysis.
+**Business Value:** Connects historical performance with forward-looking scenario analysis, allowing management to understand how changes in key business drivers can affect profitability and EBITDA.
 
 ---
 
@@ -146,7 +148,7 @@ The model dynamically recalculates the impact on revenue, profitability and EBIT
 
 A Power BI financial reporting solution designed to transform accounting data into interactive management financial statements.
 
-The project demonstrates how accounting data can be structured into a reporting model that provides management with a consistent view of financial performance and financial position.
+The model provides a structured view of financial performance and financial position while allowing users to analyse financial results interactively.
 
 ### Key Capabilities
 
@@ -158,7 +160,7 @@ The project demonstrates how accounting data can be structured into a reporting 
 * Automated reporting visuals
 * Drill-down financial analysis
 
-The project focuses on translating accounting data into a **management-friendly financial reporting environment**, rather than simply reproducing static financial statements.
+**Business Value:** Translates accounting data into a structured management reporting environment, making financial performance and position easier to analyse and communicate.
 
 ---
 
@@ -179,7 +181,9 @@ The model includes:
 * Financial analysis
 * Visualisation dashboard
 
-The objective is to demonstrate how operational and financial assumptions flow through the **Income Statement, Balance Sheet and Cash Flow Statement** over a multi-year forecast period.
+The model demonstrates how operational and financial assumptions flow through the **Income Statement, Balance Sheet and Cash Flow Statement** over a multi-year forecast period.
+
+**Business Value:** Provides an integrated view of how operating assumptions translate into projected financial performance, financial position, and cash flow.
 
 ---
 
@@ -202,7 +206,7 @@ A Power BI workforce analytics project focused on understanding employee demogra
 * Workforce movements
 * Trends over time
 
-The project demonstrates the application of data modelling and visual analytics to support workforce and management decision-making.
+**Business Value:** Demonstrates how workforce data can be transformed into structured insights to support HR and management decision-making.
 
 ---
 
@@ -223,7 +227,7 @@ An interactive e-commerce analytics dashboard analysing sales performance, inven
 * Customer value
 * Commercial trends
 
-The project demonstrates how Power BI can transform operational data into actionable commercial insights.
+**Business Value:** Uses interactive analytics to identify sales trends, product performance, inventory positions, and customer value drivers.
 
 ---
 
@@ -246,9 +250,11 @@ The objective was to develop an executive-level dashboard for the CEO of Massach
 * Data storytelling
 * Business-focused visualisation
 
+**Business Value:** Demonstrates the ability to translate complex operational data into an executive-level reporting solution focused on business questions and decision-making.
+
 ---
 
-# Core Skills Demonstrated
+# Core Skills
 
 ## Finance
 
@@ -264,8 +270,9 @@ The objective was to develop an executive-level dashboard for the CEO of Massach
 * Working capital & AR analysis
 * Intercompany accounting
 * NCI and consolidation concepts
+* M&A / financial analysis
 
-## Power BI & Data
+## Business Intelligence & Data
 
 * Power BI
 * DAX
@@ -277,17 +284,7 @@ The objective was to develop an executive-level dashboard for the CEO of Massach
 * KPI development
 * Dashboard design
 * Data visualisation
-
-## Analytical Areas
-
-* Commercial analytics
-* Revenue analysis
-* Profitability analysis
-* Customer analytics
-* Cohort analysis
-* Customer lifetime value
-* Receivables analysis
-* Workforce analytics
+* Data analysis
 
 ---
 
@@ -296,7 +293,7 @@ The objective was to develop an executive-level dashboard for the CEO of Massach
 **Jamil Ur Rehman**
 **Finance & BI Analyst | FP&A | Financial Modelling | Power BI**
 
-I specialise in combining **finance and business intelligence** to build reporting and analytical solutions that help management understand performance, identify key drivers, and make better decisions.
+I specialise in combining **finance and business intelligence** to build reporting, financial models, and analytical solutions that help management understand performance, identify key drivers, and make better decisions.
 
 My experience and project work cover:
 
@@ -310,7 +307,7 @@ My experience and project work cover:
 * DAX
 * Data analytics
 
-**Certifications:** ACCA · FMVA · BIDA (Data Science Analyst) · MSc Economics
+**Certifications:** ACCA · FMVA · BIDA – Data Science Analyst · MSc Economics
 
 [LinkedIn →](https://www.linkedin.com/in/jamil-ur-rehman-acca/)
 [Email →](mailto:Jamil.akhunzada@gmail.com)
