@@ -1,59 +1,324 @@
-# Welcome to My Project Repository
+# Finance & Analytics Project Portfolio
 
-This repository serves as a central hub for all my project-related repositories. Each project is designed to showcase different skills and tools used in financial analysis, data visualization, and more.
+Welcome to my project portfolio.
 
-## Projects
+I combine **finance, financial modelling, and business intelligence** to build reporting and analytical solutions that turn financial and operational data into actionable insights.
 
-## Prepared Financial statements in Power BI 
-
-In this project, I developed comprehensive financial statements using Power BI. The project includes automated visualizations for the income statement, balance sheet, and cash flow statement, providing clear and interactive insights into financial performance. By leveraging Power BI's advanced features, I ensured that the financial reports are both accurate and easily accessible, enhancing decision-making processes. 
-
-
-Please check out the project using below link:
-
-https://github.com/Jamil-DataFinance/Financial_Reporting_in_PowerBI
-
----
-### HR Analytics
-This Power BI project provides a comprehensive analysis of employee data, focusing on attrition, demographics, performance tracking, and trends over time. The dashboard is designed to help HR professionals and decision-makers gain actionable insights into workforce dynamics, employee satisfaction, and attrition patterns.
-
-https://github.com/Jamil-DataFinance/HR-Analytics
-
-
----
-### Five-Year Financial Projections for Placeholder Innovations
-
-This is my first project, where I created a comprehensive financial model to forecast 5 years of financial statements for a placeholder company. The model includes:
-
-- A three-statement financial model
-- A visualization dashboard
-- Detailed schedules for in-depth financial analysis
-
-You can find the project repository here: https://github.com/Jamil-DataFinance/Financial-Model
+My projects cover **FP&A, financial modelling, financial consolidation, financial reporting, Power BI, DAX, scenario analysis, and business analytics**.
 
 ---
 
+## Portfolio at a Glance
 
-## E commerce Dashboard 
+**7 Projects | 4 Finance | 3 Data & Analytics**
 
-In this project, I created a robust E-commerce Dashboard to analyze sales performance, inventory management, and customer behavior. Utilizing Power BI, the dashboard provides detailed insights into key metrics such as sales trends, stock levels, and customer value. This interactive tool helps in making data-driven decisions to optimize operations and drive business growth.
+### Finance Projects
 
+1. [Multi-Entity Financial Consolidation & Reporting](#1-multi-entity-financial-consolidation--reporting)
+2. [FP&A Decision Support Dashboard](#2-fpa-decision-support-dashboard)
+3. [Financial Reporting in Power BI](#3-financial-reporting-in-power-bi)
+4. [Five-Year Financial Model](#4-five-year-financial-model)
 
-https://github.com/Jamil-DataFinance/Ecommerce-Dashboard
+### Data & Analytics Projects
+
+5. [HR Analytics Dashboard](#5-hr-analytics-dashboard)
+6. [E-commerce Analytics Dashboard](#6-e-commerce-analytics-dashboard)
+7. [Maven Analytics Hospital Challenge](#7-maven-analytics-hospital-challenge)
 
 ---
 
-### Maven Analytics Hospital Challenge - Massachusetts General Hospital (MGH)
+# Finance Projects
 
-I'm thrilled to share that I've participated in the Maven Analytics Hospital Challenge as an Analytics Consultant. In this role, I prepared an insightful dashboard for the CEO of Massachusetts General Hospital (MGH), addressing key questions and providing strategic insights.
+## 1. Multi-Entity Financial Consolidation & Reporting
 
-You can check out the dashboard and all the details of the project here.
+**Power BI | DAX | Financial Consolidation | Financial Modelling | IFRS 10**
 
-https://mavenanalytics.io/project/16822
+[View Project →](https://github.com/Jamil-DataFinance/Consolidated-financial-statements-Power-BI)
 
+A multi-entity financial reporting and consolidation model designed to bring **standalone entity reporting and group consolidation into a single Power BI environment**.
 
-## Contact
+The model allows users to select an individual entity and view its standalone financial statements, or select the full group to generate consolidated results using the same reporting structure and measures.
 
-For questions or feedback, please contact:
-- Jamil ur Rehman
-- Email: Jamil.akhunzada@gmail.com
+### Key Capabilities
+
+* Multi-entity financial reporting
+* Profit & Loss
+* Statement of Financial Position
+* Intercompany eliminations
+* Investment-in-subsidiary elimination
+* Non-controlling interest (NCI)
+* Actual vs Budget vs Prior Year analysis
+* Consolidation bridges
+* Management KPIs and financial ratios
+* Entity-level and group-level reporting through the same model
+
+### Finance Concepts Demonstrated
+
+* Group consolidation
+* Intercompany transactions and balances
+* Investment elimination
+* NCI attribution
+* Financial statement mapping
+* Consolidation adjustments
+* Entity-to-group reporting
+
+### Technical Skills
+
+* Power BI data modelling
+* DAX
+* Power Query
+* Dynamic filter-context logic
+* Standardised account mapping
+* Reusable financial measures
+
+**Key idea:** The project goes beyond financial visualisation by embedding consolidation logic directly into the reporting model, making the movement from entity-level results to consolidated group results transparent and traceable.
+
+> All entities, transactions and financial data are fictional and created solely for portfolio and demonstration purposes.
+
+---
+
+## 2. FP&A Decision Support Dashboard
+
+**Power BI | DAX | FP&A | Financial Modelling | Scenario Analysis**
+
+[View Project →](https://github.com/Jamil-DataFinance/6Slides-FP-A-Model)
+
+**NexaCommerce Global** is a fictional mid-sized e-commerce business used to demonstrate an end-to-end **FP&A and commercial finance reporting environment**.
+
+The project connects revenue drivers, profitability, customer behaviour, receivables, variance analysis, and forward-looking scenario modelling in one Power BI solution.
+
+### Analytical Pages
+
+| Page                       | Purpose                                                |
+| -------------------------- | ------------------------------------------------------ |
+| **FP&A Model Summary**     | Executive KPIs, Budget vs Actual and variance analysis |
+| **Sales Analysis**         | Revenue by product, region and sales channel           |
+| **Customer Intelligence**  | Cohort, CLV and customer acquisition analysis          |
+| **Profitability Analysis** | Gross margin, contribution margin and EBITDA           |
+| **Customer Aging**         | Receivables ageing and collection risk                 |
+| **Scenario Analysis**      | Revenue-to-EBITDA sensitivity modelling                |
+
+### Key Capabilities
+
+* Budget vs Actual variance analysis
+* Revenue-to-EBITDA bridge
+* Dynamic What-If analysis
+* EBITDA sensitivity modelling
+* Customer cohort analysis
+* Customer lifetime value segmentation
+* Receivables ageing
+* Collection risk analysis
+* Profitability analysis
+* YTD / MTD reporting
+* Commercial performance analysis
+
+### Scenario Modelling
+
+Users can adjust key business assumptions such as:
+
+* Revenue growth
+* Pricing
+* Cost ratios
+* Operating assumptions
+
+The model dynamically recalculates the impact on revenue, profitability and EBITDA using DAX.
+
+### Technical Skills
+
+* Power BI
+* DAX
+* Star-schema data modelling
+* Disconnected parameter tables
+* Dynamic measures
+* What-If analysis
+* Financial KPI development
+* Variance analysis
+
+**Key idea:** This project demonstrates the transition from traditional reporting to **decision-support FP&A**, connecting historical performance with forward-looking scenario analysis.
+
+---
+
+## 3. Financial Reporting in Power BI
+
+**Power BI | Financial Statements | DAX | Management Reporting**
+
+[View Project →](https://github.com/Jamil-DataFinance/Financial_Reporting_in_PowerBI)
+
+A Power BI financial reporting solution designed to transform accounting data into interactive management financial statements.
+
+The project demonstrates how accounting data can be structured into a reporting model that provides management with a consistent view of financial performance and financial position.
+
+### Key Capabilities
+
+* Income Statement
+* Balance Sheet
+* Cash Flow Statement
+* Financial KPI reporting
+* Interactive financial analysis
+* Automated reporting visuals
+* Drill-down financial analysis
+
+The project focuses on translating accounting data into a **management-friendly financial reporting environment**, rather than simply reproducing static financial statements.
+
+---
+
+## 4. Five-Year Financial Model
+
+**Financial Modelling | Forecasting | Three-Statement Model | Scenario Analysis**
+
+[View Project →](https://github.com/Jamil-DataFinance/Financial-Model)
+
+A five-year financial model developed for a fictional company to demonstrate integrated financial forecasting and modelling.
+
+The model includes:
+
+* Three-statement financial model
+* Five-year financial projections
+* Supporting financial schedules
+* Forecast assumptions
+* Financial analysis
+* Visualisation dashboard
+
+The objective is to demonstrate how operational and financial assumptions flow through the **Income Statement, Balance Sheet and Cash Flow Statement** over a multi-year forecast period.
+
+---
+
+# Data & Analytics Projects
+
+## 5. HR Analytics Dashboard
+
+**Power BI | HR Analytics | Data Visualisation**
+
+[View Project →](https://github.com/Jamil-DataFinance/HR-Analytics)
+
+A Power BI workforce analytics project focused on understanding employee demographics, attrition, performance, and workforce trends.
+
+### Key Areas
+
+* Employee attrition
+* Workforce demographics
+* Performance trends
+* Employee characteristics
+* Workforce movements
+* Trends over time
+
+The project demonstrates the application of data modelling and visual analytics to support workforce and management decision-making.
+
+---
+
+## 6. E-commerce Analytics Dashboard
+
+**Power BI | Sales Analytics | Customer Analytics | Data Visualisation**
+
+[View Project →](https://github.com/Jamil-DataFinance/Ecommerce-Dashboard)
+
+An interactive e-commerce analytics dashboard analysing sales performance, inventory, and customer behaviour.
+
+### Key Areas
+
+* Sales performance
+* Revenue trends
+* Product performance
+* Inventory levels
+* Customer value
+* Commercial trends
+
+The project demonstrates how Power BI can transform operational data into actionable commercial insights.
+
+---
+
+## 7. Maven Analytics Hospital Challenge
+
+**Massachusetts General Hospital | Power BI | Healthcare Analytics | Data Visualisation**
+
+[View Project →](https://mavenanalytics.io/project/16822)
+
+A business analytics project completed as part of the **Maven Analytics Hospital Challenge**.
+
+The objective was to develop an executive-level dashboard for the CEO of Massachusetts General Hospital, transforming hospital data into insights that could support operational and strategic decision-making.
+
+### Key Areas
+
+* KPI development
+* Executive dashboard design
+* Trend analysis
+* Operational analysis
+* Data storytelling
+* Business-focused visualisation
+
+---
+
+# Core Skills Demonstrated
+
+## Finance
+
+* FP&A
+* Financial modelling
+* Financial forecasting
+* Financial reporting
+* Financial consolidation
+* Management reporting
+* Variance analysis
+* Scenario modelling
+* Profitability analysis
+* Working capital & AR analysis
+* Intercompany accounting
+* NCI and consolidation concepts
+
+## Power BI & Data
+
+* Power BI
+* DAX
+* Power Query
+* Data modelling
+* Star-schema architecture
+* Dynamic measures
+* What-If analysis
+* KPI development
+* Dashboard design
+* Data visualisation
+
+## Analytical Areas
+
+* Commercial analytics
+* Revenue analysis
+* Profitability analysis
+* Customer analytics
+* Cohort analysis
+* Customer lifetime value
+* Receivables analysis
+* Workforce analytics
+
+---
+
+# About Me
+
+**Jamil Ur Rehman**
+**Finance & BI Analyst | FP&A | Financial Modelling | Power BI**
+
+I specialise in combining **finance and business intelligence** to build reporting and analytical solutions that help management understand performance, identify key drivers, and make better decisions.
+
+My experience and project work cover:
+
+* FP&A
+* Financial modelling
+* Financial reporting
+* Financial consolidation
+* M&A / financial analysis
+* Multi-entity reporting
+* Power BI
+* DAX
+* Data analytics
+
+**Certifications:** ACCA · FMVA · BIDA · MSc Economics
+
+[LinkedIn →](https://www.linkedin.com/in/jamil-ur-rehman-acca/)
+[Email →](mailto:Jamil.akhunzada@gmail.com)
+
+---
+
+## Disclaimer
+
+All financial data, companies, transactions, and datasets used in the finance projects are fictional and created solely for portfolio and demonstration purposes.
+
+No confidential or proprietary company information is included in these projects.
