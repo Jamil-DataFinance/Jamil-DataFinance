@@ -71,7 +71,7 @@ The model allows users to select an individual entity and view its standalone fi
 * Standardised account mapping
 * Reusable financial measures
 
-**Key idea:** The project goes beyond financial visualisation by embedding consolidation logic directly into the reporting model, making the movement from entity-level results to consolidated group results transparent and traceable.
+*Business Value*:  Combines entity-level financial reporting and group consolidation in a single model, with transparent consolidation bridges that make adjustments traceable and easier to reconcile.
 
 > All entities, transactions and financial data are fictional and created solely for portfolio and demonstration purposes.
 
